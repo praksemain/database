@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\Inventory_system\Inventory_system\bin\Debug\Inventory_system.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Inventory_system\Inventory_system\bin\Debug\Inventory_system.exe
+c:\users\user\documents\visual studio 2015\Projects\Inventory_system\Inventory_system\bin\Debug\Inventory_system.pdb
+c:\users\user\documents\visual studio 2015\Projects\Inventory_system\Inventory_system\obj\Debug\Inventory_system.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Inventory_system\Inventory_system\obj\Debug\Inventory_system.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Inventory_system\Inventory_system\obj\Debug\Inventory_system.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Inventory_system\Inventory_system\obj\Debug\Inventory_system.exe
+c:\users\user\documents\visual studio 2015\Projects\Inventory_system\Inventory_system\obj\Debug\Inventory_system.pdb
+c:\users\user\documents\visual studio 2015\Projects\Inventory_system\Inventory_system\obj\Debug\Inventory_system.employees.resources
+c:\users\user\documents\visual studio 2015\Projects\Inventory_system\Inventory_system\obj\Debug\Inventory_system.mainform.resources
+c:\users\user\documents\visual studio 2015\Projects\Inventory_system\Inventory_system\obj\Debug\Inventory_system.Customers.resources
